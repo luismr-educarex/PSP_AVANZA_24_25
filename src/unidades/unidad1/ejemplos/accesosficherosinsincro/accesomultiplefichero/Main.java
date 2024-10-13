@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package unidades.unidad1.ejemplos.accesomultiplefichero;
+package unidades.unidad1.ejemplos.accesosficherosinsincro.accesomultiplefichero;
 
 import java.io.*;
 
