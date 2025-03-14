@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.InetAddress;
 import java.net.Socket;
 
-public class Principal {
+public class MainCliente {
     public static void main(String[] args) throws Exception {
         // Obtener la dirección IP del servidor
         InetAddress direccion = InetAddress.getByName("www.google.com");
