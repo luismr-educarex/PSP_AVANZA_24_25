@@ -13,10 +13,10 @@ public class SMTPClient {
     public static void main(String[] args) {
         String smtpServer = "smtp.gmail.com"; // Cambia esto si usas otro servidor
         int smtpPort = 587; // Usa 465 para SSL o 25 para no seguro
-        String username = "uuuuuu"; // Cambia esto por tu correo
-        String password = "xxxxxxxxx"; // Cambia esto por tu contraseña de aplicación proporcionada por Google.
-        String from = "fffffff";
-        String to = "tttttttt";
+        String username = "luismr.avanza@gmail.com"; // Cambia esto por tu correo
+        String password = "dhwp yflc zpzp oljp"; // Cambia esto por tu contraseña de aplicación proporcionada por Google.
+        String from = "luismr.avanza@gmail.com";
+        String to = "lmartinezr10@educarex.es";
         String subject = "Prueba de Cliente SMTP en Java";
         String body = "Este es un mensaje de prueba enviado con un cliente SMTP basado en sockets en Java.";
 
